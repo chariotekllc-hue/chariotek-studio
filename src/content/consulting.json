@@ -1,0 +1,58 @@
+{
+    "hero": {
+        "title": "Technical Consulting",
+        "subtitle": "High-level technical advisory and engineering consulting for complex challenges."
+    },
+    "offerings": {
+        "title": "What We Offer",
+        "items": [
+            {
+                "title": "Technical Advisory",
+                "description": "Strategic guidance on technology roadmaps, system architecture, and research directions."
+            },
+            {
+                "title": "Design & Architecture Review",
+                "description": "In-depth analysis of engineering designs, software architectures, and simulation models."
+            },
+            {
+                "title": "Feasibility & Scoping",
+                "description": "Assessment of technical feasibility, project scoping, and risk analysis for new ventures."
+            }
+        ]
+    },
+    "areas": {
+        "title": "Consulting Areas",
+        "items": [
+            "Engineering Systems",
+            "Simulation & Validation",
+            "Robotics & Automation",
+            "Software & AI Systems"
+        ]
+    },
+    "engagement": {
+        "title": "Engagement Models",
+        "items": [
+            {
+                "title": "1:1 Consultation",
+                "description": "Direct, focused sessions to address specific technical questions or challenges."
+            },
+            {
+                "title": "Short-Term Advisory",
+                "description": "Retained advisory services for ongoing guidance over a defined period."
+            },
+            {
+                "title": "Project-Based Consulting",
+                "description": "Dedicated consulting support for the duration of a specific project."
+            }
+        ]
+    },
+    "pricing": {
+        "title": "Pricing",
+        "statement": "Pricing varies by scope, complexity, and engagement model. All services are governed by a formal consulting agreement."
+    },
+    "cta": {
+        "text": "Request a Consultation",
+        "href": "/contact"
+    },
+    "disclaimer": "Consulting services are advisory in nature. No outcomes, performance guarantees, or specific results are implied or warranted."
+}

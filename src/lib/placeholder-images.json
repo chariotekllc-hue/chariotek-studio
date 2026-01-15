@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "/images/chariotek-logo.png",
+      "description": "Chariotek Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1701336843410-31897aea08a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxDJTIwbG9nb3xlbnwwfHx8fDE3NjYwMDgwMTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "C logo"
+    },
+    {
+      "id": "/images/hero-bg.png",
+      "description": "Abstract technology background for hero section",
+      "imageUrl": "https://images.unsplash.com/photo-1604011237320-8e0506614fdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhYnN0cmFjdCUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY1OTM4MzYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract technology"
+    },
+    {
+      "id": "/images/about-hero-bg.png",
+      "description": "Abstract technology background for about hero section",
+      "imageUrl": "https://images.unsplash.com/photo-1563456021008-5cd6ac7c005d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z2VhcnMlMjBibHVlcHJpbnR8ZW58MHx8fHwxNzY2MDA3Mjc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gears blueprint"
+    },
+    {
+      "id": "/images/abstract-grid.png",
+      "description": "Abstract grid background for content sections",
+      "imageUrl": "https://images.unsplash.com/photo-1759159347827-de3a54002de7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWNoJTIwZ3JpZHxlbnwwfHx8fDE3NjYwMDcxNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tech grid"
+    }
+  ]
+}

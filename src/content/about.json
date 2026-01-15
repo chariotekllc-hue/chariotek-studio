@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "title": "Who We Are",
+    "subtitle": "Chariotek LLC is a research-driven engineering and technology firm specializing in the development of advanced systems across aerospace, energy, robotics, and software domains.",
+    "background": "/images/about-hero-bg.png"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "statement": "To advance engineering and technology through innovation, research excellence, and responsible system development."
+  },
+  "vision": {
+    "title": "Our Approach",
+    "statement": "We focus on solving complex technical problems through structured research, disciplined engineering, and practical execution. Our approach emphasizes analytical, data-driven decision making, strong validation and testing, and alignment between research outcomes and real-world deployment."
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "Chariotek is comprised of a dedicated team of engineers, researchers, and strategists with deep expertise across multiple domains. Our collective experience allows us to tackle multifaceted problems with a holistic and integrated approach, ensuring every project benefits from a wealth of knowledge and a commitment to excellence."
+  },
+  "values": {
+    "title": "Our Core Values",
+    "description": "Our values guide every project, decision, and collaboration.",
+    "list": [
+      {
+        "title": "Precision",
+        "desc": "Commitment to accuracy and quality."
+      },
+      {
+        "title": "Integrity",
+        "desc": "Honesty and transparency in all engagements."
+      },
+      {
+        "title": "Innovation",
+        "desc": "Pursuit of novel and effective solutions."
+      },
+      {
+        "title": "Accountability",
+        "desc": "Responsibility for our work and its outcomes."
+      }
+    ]
+  }
+}

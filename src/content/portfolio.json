@@ -1,0 +1,25 @@
+{
+  "title": "Selected Work",
+  "subtitle": "A curated selection of research, engineering, and development projects across multiple domains.",
+  "projects": [
+    {
+      "title": "Autonomous UAV Platform",
+      "domain": "Aerospace",
+      "status": "Prototype",
+      "description": "Modular UAV system designed for endurance, payload flexibility, and autonomous operation."
+    },
+    {
+      "title": "Energy Storage Module",
+      "domain": "Energy Systems",
+      "status": "Concept",
+      "description": "Compact energy module with integrated thermal management and safety considerations."
+    },
+    {
+      "title": "Engineering Simulation Framework",
+      "domain": "Design & Simulation",
+      "status": "Deployed",
+      "description": "CFD-based analysis workflow for validating thermal and structural performance."
+    }
+  ],
+  "disclaimer": "Some projects may be confidential, conceptual, or subject to non-disclosure agreements."
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Services",
+    "categories": [
+        {
+            "title": "Research & Development",
+            "items": [
+                "Applied engineering research",
+                "Feasibility studies and system architecture",
+                "Technology evaluation and validation"
+            ]
+        },
+        {
+            "title": "Design & Simulation",
+            "items": [
+                "Mechanical product design",
+                "CAD modeling and digital prototyping",
+                "CFD, thermal, and multiphysics simulations"
+            ]
+        },
+        {
+            "title": "Aerospace & Robotics",
+            "items": [
+                "UAV and drone system development",
+                "Robotic platforms and automation systems",
+                "Control architecture and integration"
+            ]
+        },
+        {
+            "title": "Software & AI",
+            "items": [
+                "Full-stack software development",
+                "SaaS platform engineering",
+                "AI-driven automation and analytics"
+            ]
+        },
+        {
+            "title": "Paid Consulting",
+            "items": [
+                "Technical consulting and advisory",
+                "Project planning and execution oversight",
+                "MVP to deployment support"
+            ]
+        },
+        {
+            "title": "Paid Training",
+            "items": [
+                "Paid technical consulting",
+                "Paid career guidance & engineering training",
+                "Paid technical training for individuals and companies"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Tools & Capabilities",
+    "capabilities": [
+        {
+            "id": "engineering",
+            "title": "Engineering Capabilities",
+            "items": [
+                "Mechanical system design",
+                "Structural and thermal analysis",
+                "Multiphysics simulations"
+            ]
+        },
+        {
+            "id": "software",
+            "title": "Software Capabilities",
+            "items": [
+                "Web and SaaS platforms",
+                "Automation pipelines",
+                "AI and data-driven systems"
+            ]
+        },
+        {
+            "id": "methodology",
+            "title": "Methodology",
+            "items": [
+                "Research → Design → Simulation → Validation → Deployment"
+            ]
+        }
+    ],
+    "philosophy": {
+        "title": "Tooling Philosophy",
+        "description": "Tool-agnostic, outcome-focused engineering using industry-standard and custom workflows."
+    }
+}

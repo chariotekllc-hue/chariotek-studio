@@ -1,0 +1,49 @@
+{
+    "hero": {
+        "title": "Training & Education",
+        "subtitle": "Professional training for engineers and aspiring technology professionals, focusing on practical skills and career development."
+    },
+    "categories": {
+        "title": "Training Categories",
+        "items": [
+            {
+                "title": "Technical Skill Training",
+                "description": "Hands-on training focused on core engineering and software tools.",
+                "points": [
+                    "CAD & Simulation Fundamentals",
+                    "Modern Engineering Workflows",
+                    "Software & AI Tools for Engineers"
+                ]
+            },
+            {
+                "title": "Career-Focused Training",
+                "description": "Guidance and preparation for navigating a career in engineering and technology.",
+                "points": [
+                    "Engineering Career Strategy",
+                    "Portfolio & Project Development",
+                    "Technical Interview Preparation"
+                ]
+            }
+        ]
+    },
+    "format": {
+        "title": "Training Format",
+        "items": [
+            "Live Workshops",
+            "Self-Paced Recorded Modules",
+            "Group Sessions",
+            "Optional 1:1 Mentoring"
+        ]
+    },
+    "cta": {
+        "primary": {
+            "text": "View Upcoming Workshops",
+            "href": "#"
+        },
+        "secondary": {
+            "text": "Enterprise Training",
+            "href": "/enterprise-training"
+        }
+    },
+    "disclaimer": "Chariotek LLC provides educational services only. Participation does not guarantee employment, certification, or specific job placement outcomes."
+}

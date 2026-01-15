@@ -1,0 +1,15 @@
+{
+  "companyName": "Chariotek LLC",
+  "tagline": "Research and Innovation.",
+  "email": "contact@chariotek.com",
+  "logo": "/images/chariotek-logo.png",
+  "socials": {
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com",
+    "twitter": "https://twitter.com"
+  },
+  "footer": {
+    "copyright": "© Chariotek LLC. All rights reserved.",
+    "governingLaw": "United States of America"
+  }
+}

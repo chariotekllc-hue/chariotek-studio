@@ -1,0 +1,52 @@
+{
+    "hero": {
+        "title": "Enterprise Training",
+        "subtitle": "Custom technical training programs designed for companies, engineering teams, and R&D groups."
+    },
+    "who_for": {
+        "title": "Who It's For",
+        "items": [
+            "Corporate Engineering Teams",
+            "Technology Startups",
+            "Research & Development Groups"
+        ]
+    },
+    "areas": {
+        "title": "Customizable Training Areas",
+        "items": [
+            {
+                "title": "New Tool & Technology Onboarding",
+                "description": "Accelerate team adoption of new software, hardware, or complex engineering tools."
+            },
+            {
+                "title": "Advanced Simulation Workflows",
+                "description": "Standardize and optimize CFD, FEA, and multiphysics simulation processes across your team."
+            },
+            {
+                "title": "AI Adoption for Engineering",
+                "description": "Integrate AI and automation into your existing engineering and design workflows."
+            },
+            {
+                "title": "Process & Workflow Optimization",
+                "description": "Analyze and refine internal processes for improved efficiency and quality."
+            }
+        ]
+    },
+    "delivery": {
+        "title": "Delivery Model",
+        "items": [
+            {
+                "title": "Custom Curriculum",
+                "description": "Content tailored to your team's specific goals, projects, and existing skill levels."
+            },
+            {
+                "title": "Flexible Delivery",
+                "description": "Training can be delivered remotely or on-site to fit your team's schedule and location."
+            }
+        ]
+    },
+    "cta": {
+        "text": "Request Enterprise Training",
+        "href": "/contact"
+    }
+}

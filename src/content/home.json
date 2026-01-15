@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "Chariotek",
+    "tagline": "Research and Innovation.",
+    "description": "Engineering and technology research, development, and consulting focused on advanced systems across aerospace, energy, robotics, software, and artificial intelligence.",
+    "background": "/images/hero-bg.png",
+    "ctaPrimary": "Contact Us",
+    "ctaSecondary": "View Services"
+  },
+  "domains": [
+    {
+      "title": "Aerospace & Robotics",
+      "desc": "Design and development of drones, UAV platforms, autonomous systems, and robotic architectures."
+    },
+    {
+      "title": "Energy Systems",
+      "desc": "Research and engineering of energy modules, power systems, thermal management, and storage solutions."
+    },
+    {
+      "title": "Engineering Design & Simulation",
+      "desc": "Mechanical product design, CAD modeling, CFD analysis, and multiphysics simulations for validation and optimization."
+    },
+    {
+      "title": "Software & AI",
+      "desc": "Development of scalable software systems, SaaS platforms, automation tools, and AI-driven solutions."
+    }
+  ],
+  "what_we_do": {
+    "title": "What We Do",
+    "items": [
+      "Applied research and system feasibility analysis",
+      "Engineering design and simulation-driven validation",
+      "Software and AI system development",
+      "Technical consulting and project execution"
+    ]
+  },
+  "why_chariotek": {
+    "title": "Why Chariotek",
+    "items": [
+      "Research-first engineering approach",
+      "Cross-disciplinary technical expertise",
+      "Concept-to-deployment execution",
+      "Precision, reliability, and accountability"
+    ]
+  }
+}
